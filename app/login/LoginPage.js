@@ -51,7 +51,7 @@ export default function Page() {
           <button type="submit" className="cursor-pointer w-full p-3 text-white bg-blue-600 rounded-lg font-bold hover:bg-blue-700 transition-colors">Sign In</button>
         </form>
         <p className="mt-4 text-center text-sm">
-          Don't have an account?{' '}
+          Don&apos;t have an account?{' '}
           <Link href="/register" className="text-blue-900 hover:underline cursor-pointer">
             Sign Up
           </Link>
