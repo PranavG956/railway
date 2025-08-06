@@ -13,7 +13,7 @@ const Navbar = () => {
   
 
   return (
-<div className="bg-blue-700 flex flex-col md:flex-row justify-between items-center p-6 px-6 sticky top-0">     
+<div className="bg-blue-700 flex flex-col md:flex-row gap-3 justify-between items-center p-6 px-6 sticky top-0">     
       <ul className="text-white flex gap-3 justify-center">
         <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" className="injected-svg" data-src="https://cdn.hugeicons.com/icons/train-01-solid-rounded.svg?v=2.0" role="img" color="#ffffff">
 <path fillRule="evenodd" clipRule="evenodd" d="M7.55471 18.0429C8.01424 18.3493 8.13842 18.9702 7.83207 19.4297L5.83206 22.4297C5.52571 22.8892 4.90484 23.0134 4.44531 22.707C3.98579 22.4007 3.86161 21.7798 4.16796 21.3203L6.16796 18.3203C6.47432 17.8608 7.09519 17.7366 7.55471 18.0429ZM16.4453 18.0429C16.9048 17.7366 17.5257 17.8608 17.8321 18.3203L19.8321 21.3203C20.1384 21.7798 20.0142 22.4007 19.5547 22.707C19.0952 23.0134 18.4743 22.8892 18.168 22.4297L16.168 19.4297C15.8616 18.9702 15.9858 18.3493 16.4453 18.0429Z" fill="#ffffff"></path>
